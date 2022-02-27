@@ -19,12 +19,14 @@ sorted_table = table.loc[(table['NumericValue'] < 5.0) & (table['Dim1'] == "BTSX
 sorted_table.to_excel(f"{os.getcwd()}/trafic.xlsx", index = False)
 queue.get_input_work_item()
 
-for row in sorted_table.index:
+for index,row in enumerate(sorted_table.index):
     queue.create_output_work_item()
     queue.set_work_item_variable("country",sorted_table.loc[row,'SpatialDim'])
     queue.set_work_item_variable("year", str(sorted_table.loc[row,'TimeDim']))
     queue.set_work_item_variable("rate",str(sorted_table.loc[row,'NumericValue']))
     queue.save_work_item()
+    if index == 99:
+        break
 
 # http.download("https://github.com/robocorp/inhuman-insurance-inc/raw/main/RS_198.json", f"{os.getcwd()}/trafic.json", overwrite=True)
 # data_json = json.load_json_from_file(f"{os.getcwd()}/trafic.json")
