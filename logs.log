@@ -1,0 +1,1409 @@
+13-03-2022 13:39:43 Resolving input path: %{ROBOT_ROOT}/devdata/work-items-in/test-input-for-producer/work-items.json
+13-03-2022 13:39:43 No input work items file found: %{ROBOT_ROOT}\devdata\work-items-in\test-input-for-producer\work-items.json
+13-03-2022 13:40:32 Resolving input path: %{ROBOT_ROOT}/devdata/work-items-in/test-input-for-producer/work-items.json
+13-03-2022 13:40:32 No input work items file found: %{ROBOT_ROOT}\devdata\work-items-in\test-input-for-producer\work-items.json
+13-03-2022 13:41:32 Resolving input path: %{ROBOT_ROOT}/devdata/work-items-in/test-input-for-producer/work-items.json
+13-03-2022 13:41:32 No input work items file found: %{ROBOT_ROOT}\devdata\work-items-in\test-input-for-producer\work-items.json
+13-03-2022 13:41:32 country = ESP
+13-03-2022 13:41:32 year = 2019
+13-03-2022 13:41:32 rate = 3.91405
+13-03-2022 13:41:32 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:32 country = CHE
+13-03-2022 13:41:32 year = 2019
+13-03-2022 13:41:32 rate = 2.24644
+13-03-2022 13:41:32 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:32 country = DEU
+13-03-2022 13:41:32 year = 2019
+13-03-2022 13:41:32 rate = 3.78353
+13-03-2022 13:41:32 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:32 country = NOR
+13-03-2022 13:41:32 year = 2019
+13-03-2022 13:41:32 rate = 2.12302
+13-03-2022 13:41:32 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:32 country = DNK
+13-03-2022 13:41:32 year = 2019
+13-03-2022 13:41:32 rate = 3.69833
+13-03-2022 13:41:32 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:32 country = NLD
+13-03-2022 13:41:32 year = 2019
+13-03-2022 13:41:32 rate = 3.98313
+13-03-2022 13:41:32 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:32 country = MLT
+13-03-2022 13:41:32 year = 2019
+13-03-2022 13:41:32 rate = 4.10715
+13-03-2022 13:41:32 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:32 country = EST
+13-03-2022 13:41:32 year = 2019
+13-03-2022 13:41:32 rate = 4.46408
+13-03-2022 13:41:32 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:32 country = FIN
+13-03-2022 13:41:32 year = 2019
+13-03-2022 13:41:32 rate = 3.88637
+13-03-2022 13:41:32 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:32 country = FSM
+13-03-2022 13:41:32 year = 2019
+13-03-2022 13:41:32 rate = 0.15972
+13-03-2022 13:41:32 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:32 country = MDV
+13-03-2022 13:41:32 year = 2019
+13-03-2022 13:41:33 rate = 1.6277
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = LUX
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 4.07499
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = GBR
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 3.21187
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = KIR
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 1.92481
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = JPN
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 3.59908
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ISR
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 3.90874
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ISL
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 2.04915
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = SGP
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 2.08609
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = IRL
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 3.13364
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = AUT
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 4.86592
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = SWError
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 3.13947
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = AUS
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 4.93914
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ATG
+13-03-2022 13:41:33 year = 2019
+13-03-2022 13:41:33 rate = 0.0
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = NLD
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 4.09741
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ISR
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 3.40034
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = GBR
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 3.01805
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ESP
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 4.10744
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = SWE
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 3.61718
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = MLT
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 4.63235
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = DNK
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 3.18606
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = FIN
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 4.45444
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = FSM
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 0.21282
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = AUT
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 4.82083
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = NOR
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 2.13929
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = AUS
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 4.79252
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = CHE
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 2.81505
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = IRL
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 3.02987
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = KIR
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 2.13185
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = MDV
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 1.722
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = DEU
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 4.08963
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ATG
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 0.0
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = SGP
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 2.27601
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = SVN
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 4.52394
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = JPN
+13-03-2022 13:41:33 year = 2018
+13-03-2022 13:41:33 rate = 3.65422
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = KIR
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 2.36006
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = EST
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 4.06996
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ATG
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 0.0
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = MDV
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 1.78421
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = GBR
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 3.01943
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = FIN
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 4.44535
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = JPN
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 3.87733
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = LUX
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 4.79185
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = FSM
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 0.27676
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = MLT
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 4.90312
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = SWE
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 2.72711
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = CHE
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 2.80281
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ISR
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 4.01512
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = NLD
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 3.71299
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = SGP
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 2.48243
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = NOR
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 2.11726
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = IRL
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 3.40817
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = DNK
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 3.26975
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = DEU
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 3.99334
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ESP
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 4.16664
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = AUT
+13-03-2022 13:41:33 year = 2017
+13-03-2022 13:41:33 rate = 4.91748
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = DNK
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 3.97455
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = DEU
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 4.04775
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = SGP
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 2.7416
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = GBR
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 3.04534
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = IRL
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 4.13136
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = CHE
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 2.66113
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = FSM
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 1.81464
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = NOR
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 2.72332
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = SWE
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 3.12835
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = KIR
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 4.4433
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ISR
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 4.25454
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ESP
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 4.12145
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ATG
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 0.0
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = MDV
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 0.86418
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = NLD
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 3.81597
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = JPN
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 4.08881
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = FIN
+13-03-2022 13:41:33 year = 2016
+13-03-2022 13:41:33 rate = 4.72924
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = JPN
+13-03-2022 13:41:33 year = 2015
+13-03-2022 13:41:33 rate = 4.21533
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ISL
+13-03-2022 13:41:33 year = 2015
+13-03-2022 13:41:33 rate = 4.84501
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = ISR
+13-03-2022 13:41:33 year = 2015
+13-03-2022 13:41:33 rate = 4.16119
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = GBR
+13-03-2022 13:41:33 year = 2015
+13-03-2022 13:41:33 rate = 2.9259
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = MLT
+13-03-2022 13:41:33 year = 2015
+13-03-2022 13:41:33 rate = 2.76779
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = SWE
+13-03-2022 13:41:33 year = 2015
+13-03-2022 13:41:33 rate = 3.20645
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = DNK
+13-03-2022 13:41:33 year = 2015
+13-03-2022 13:41:33 rate = 3.4678
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = KIR
+13-03-2022 13:41:33 year = 2015
+13-03-2022 13:41:33 rate = 3.60598
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = MDV
+13-03-2022 13:41:33 year = 2015
+13-03-2022 13:41:33 rate = 2.63924
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:33 country = SGP
+13-03-2022 13:41:33 year = 2015
+13-03-2022 13:41:33 rate = 2.98633
+13-03-2022 13:41:33 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:34 country = ATG
+13-03-2022 13:41:34 year = 2015
+13-03-2022 13:41:34 rate = 0.0
+13-03-2022 13:41:34 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:34 country = FSM
+13-03-2022 13:41:34 year = 2015
+13-03-2022 13:41:34 rate = 0.91839
+13-03-2022 13:41:34 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:34 country = CHE
+13-03-2022 13:41:34 year = 2015
+13-03-2022 13:41:34 rate = 3.1458
+13-03-2022 13:41:34 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:34 country = DEU
+13-03-2022 13:41:34 year = 2015
+13-03-2022 13:41:34 rate = 4.36008
+13-03-2022 13:41:34 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:34 country = NOR
+13-03-2022 13:41:34 year = 2015
+13-03-2022 13:41:34 rate = 2.55778
+13-03-2022 13:41:34 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:34 country = IRL
+13-03-2022 13:41:34 year = 2015
+13-03-2022 13:41:34 rate = 3.58953
+13-03-2022 13:41:34 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:34 country = NLD
+13-03-2022 13:41:34 year = 2015
+13-03-2022 13:41:34 rate = 3.77838
+13-03-2022 13:41:34 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:41:34 country = ESP
+13-03-2022 13:41:34 year = 2015
+13-03-2022 13:41:34 rate = 4.22738
+13-03-2022 13:41:34 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:44:47 Resolving input path: c:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:44:47 country = ESP
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 3.91405
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = CHE
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 2.24644
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = DEU
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 3.78353
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = NOR
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 2.12302
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = DNK
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 3.69833
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = NLD
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 3.98313
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = MLT
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 4.10715
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = EST
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 4.46408
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = FIN
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 3.88637
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = FSM
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 0.15972
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = MDV
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 1.6277
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = LUX
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 4.07499
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = GBR
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 3.21187
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = KIR
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 1.92481
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = JPN
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 3.59908
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = ISR
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 3.90874
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = ISL
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 2.04915
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = SGP
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 2.08609
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = IRL
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 3.13364
+13-03-2022 13:44:47 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:47 work item saved item done
+13-03-2022 13:44:47 country = AUT
+13-03-2022 13:44:47 year = 2019
+13-03-2022 13:44:47 rate = 4.86592
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = SWError
+13-03-2022 13:44:48 year = 2019
+13-03-2022 13:44:48 rate = 3.13947
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = AUS
+13-03-2022 13:44:48 year = 2019
+13-03-2022 13:44:48 rate = 4.93914
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ATG
+13-03-2022 13:44:48 year = 2019
+13-03-2022 13:44:48 rate = 0.0
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = NLD
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 4.09741
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ISR
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 3.40034
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = GBR
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 3.01805
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ESP
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 4.10744
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = SWE
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 3.61718
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = MLT
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 4.63235
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = DNK
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 3.18606
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = FIN
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 4.45444
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = FSM
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 0.21282
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = AUT
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 4.82083
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = NOR
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 2.13929
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = AUS
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 4.79252
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = CHE
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 2.81505
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = IRL
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 3.02987
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = KIR
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 2.13185
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = MDV
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 1.722
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = DEU
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 4.08963
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ATG
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 0.0
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = SGP
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 2.27601
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = SVN
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 4.52394
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = JPN
+13-03-2022 13:44:48 year = 2018
+13-03-2022 13:44:48 rate = 3.65422
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = KIR
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 2.36006
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = EST
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 4.06996
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ATG
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 0.0
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = MDV
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 1.78421
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = GBR
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 3.01943
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = FIN
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 4.44535
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = JPN
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 3.87733
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = LUX
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 4.79185
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = FSM
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 0.27676
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = MLT
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 4.90312
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = SWE
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 2.72711
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = CHE
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 2.80281
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ISR
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 4.01512
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = NLD
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 3.71299
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = SGP
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 2.48243
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = NOR
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 2.11726
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = IRL
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 3.40817
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = DNK
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 3.26975
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = DEU
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 3.99334
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ESP
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 4.16664
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = AUT
+13-03-2022 13:44:48 year = 2017
+13-03-2022 13:44:48 rate = 4.91748
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = DNK
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 3.97455
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = DEU
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 4.04775
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = SGP
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 2.7416
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = GBR
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 3.04534
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = IRL
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 4.13136
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = CHE
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 2.66113
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = FSM
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 1.81464
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = NOR
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 2.72332
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = SWE
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 3.12835
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = KIR
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 4.4433
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ISR
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 4.25454
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ESP
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 4.12145
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ATG
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 0.0
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = MDV
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 0.86418
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = NLD
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 3.81597
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = JPN
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 4.08881
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = FIN
+13-03-2022 13:44:48 year = 2016
+13-03-2022 13:44:48 rate = 4.72924
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = JPN
+13-03-2022 13:44:48 year = 2015
+13-03-2022 13:44:48 rate = 4.21533
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ISL
+13-03-2022 13:44:48 year = 2015
+13-03-2022 13:44:48 rate = 4.84501
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = ISR
+13-03-2022 13:44:48 year = 2015
+13-03-2022 13:44:48 rate = 4.16119
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:48 work item saved item done
+13-03-2022 13:44:48 country = GBR
+13-03-2022 13:44:48 year = 2015
+13-03-2022 13:44:48 rate = 2.9259
+13-03-2022 13:44:48 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = MLT
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 2.76779
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = SWE
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 3.20645
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = DNK
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 3.4678
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = KIR
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 3.60598
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = MDV
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 2.63924
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = SGP
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 2.98633
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = ATG
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 0.0
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = FSM
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 0.91839
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = CHE
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 3.1458
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = DEU
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 4.36008
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = NOR
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 2.55778
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = IRL
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 3.58953
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = NLD
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 3.77838
+13-03-2022 13:44:49 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:49 work item saved item done
+13-03-2022 13:44:49 country = ESP
+13-03-2022 13:44:49 year = 2015
+13-03-2022 13:44:49 rate = 4.22738
+13-03-2022 13:44:50 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-2\work-items.json
+13-03-2022 13:44:50 work item saved item done
+13-03-2022 13:46:54 Resolving input path: %{ROBOT_ROOT}/devdata/work-items-in/test-input-for-producer/work-items.json
+13-03-2022 13:46:54 No input work items file found: %{ROBOT_ROOT}\devdata\work-items-in\test-input-for-producer\work-items.json
+13-03-2022 13:46:54 country = ESP
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 3.91405
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = CHE
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 2.24644
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = DEU
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 3.78353
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = NOR
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 2.12302
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = DNK
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 3.69833
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = NLD
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 3.98313
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = MLT
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 4.10715
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = EST
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 4.46408
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = FIN
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 3.88637
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = FSM
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 0.15972
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = MDV
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 1.6277
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = LUX
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 4.07499
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = GBR
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 3.21187
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = KIR
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 1.92481
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = JPN
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 3.59908
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = ISR
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 3.90874
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = ISL
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 2.04915
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = SGP
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 2.08609
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = IRL
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 3.13364
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = AUT
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 4.86592
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = SWError
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 3.13947
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = AUS
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 4.93914
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = ATG
+13-03-2022 13:46:54 year = 2019
+13-03-2022 13:46:54 rate = 0.0
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = NLD
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 4.09741
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = ISR
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 3.40034
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = GBR
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 3.01805
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = ESP
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 4.10744
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = SWE
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 3.61718
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = MLT
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 4.63235
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = DNK
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 3.18606
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = FIN
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 4.45444
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = FSM
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 0.21282
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = AUT
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 4.82083
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = NOR
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 2.13929
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = AUS
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 4.79252
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = CHE
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 2.81505
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = IRL
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 3.02987
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = KIR
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 2.13185
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = MDV
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 1.722
+13-03-2022 13:46:54 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:54 work item saved
+13-03-2022 13:46:54 country = DEU
+13-03-2022 13:46:54 year = 2018
+13-03-2022 13:46:54 rate = 4.08963
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = ATG
+13-03-2022 13:46:55 year = 2018
+13-03-2022 13:46:55 rate = 0.0
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = SGP
+13-03-2022 13:46:55 year = 2018
+13-03-2022 13:46:55 rate = 2.27601
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = SVN
+13-03-2022 13:46:55 year = 2018
+13-03-2022 13:46:55 rate = 4.52394
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = JPN
+13-03-2022 13:46:55 year = 2018
+13-03-2022 13:46:55 rate = 3.65422
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = KIR
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 2.36006
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = EST
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 4.06996
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = ATG
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 0.0
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = MDV
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 1.78421
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = GBR
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 3.01943
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = FIN
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 4.44535
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = JPN
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 3.87733
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = LUX
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 4.79185
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = FSM
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 0.27676
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = MLT
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 4.90312
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = SWE
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 2.72711
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = CHE
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 2.80281
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = ISR
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 4.01512
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = NLD
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 3.71299
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = SGP
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 2.48243
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = NOR
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 2.11726
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = IRL
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 3.40817
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = DNK
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 3.26975
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = DEU
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 3.99334
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = ESP
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 4.16664
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = AUT
+13-03-2022 13:46:55 year = 2017
+13-03-2022 13:46:55 rate = 4.91748
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = DNK
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 3.97455
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = DEU
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 4.04775
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = SGP
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 2.7416
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = GBR
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 3.04534
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = IRL
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 4.13136
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = CHE
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 2.66113
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = FSM
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 1.81464
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = NOR
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 2.72332
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = SWE
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 3.12835
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = KIR
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 4.4433
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = ISR
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 4.25454
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = ESP
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 4.12145
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = ATG
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 0.0
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = MDV
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 0.86418
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = NLD
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 3.81597
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = JPN
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 4.08881
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = FIN
+13-03-2022 13:46:55 year = 2016
+13-03-2022 13:46:55 rate = 4.72924
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = JPN
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 4.21533
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = ISL
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 4.84501
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = ISR
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 4.16119
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = GBR
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 2.9259
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = MLT
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 2.76779
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = SWE
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 3.20645
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = DNK
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 3.4678
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = KIR
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 3.60598
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = MDV
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 2.63924
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = SGP
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 2.98633
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = ATG
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 0.0
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = FSM
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 0.91839
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = CHE
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 3.1458
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = DEU
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 4.36008
+13-03-2022 13:46:55 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:55 work item saved
+13-03-2022 13:46:55 country = NOR
+13-03-2022 13:46:55 year = 2015
+13-03-2022 13:46:55 rate = 2.55778
+13-03-2022 13:46:56 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:56 work item saved
+13-03-2022 13:46:56 country = IRL
+13-03-2022 13:46:56 year = 2015
+13-03-2022 13:46:56 rate = 3.58953
+13-03-2022 13:46:56 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:56 work item saved
+13-03-2022 13:46:56 country = NLD
+13-03-2022 13:46:56 year = 2015
+13-03-2022 13:46:56 rate = 3.77838
+13-03-2022 13:46:56 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:56 work item saved
+13-03-2022 13:46:56 country = ESP
+13-03-2022 13:46:56 year = 2015
+13-03-2022 13:46:56 rate = 4.22738
+13-03-2022 13:46:56 Saved into output file: C:\Users\szczo\Desktop\Robocorp\Course Level_3\devdata\work-items-out\run-1\work-items.json
+13-03-2022 13:46:56 work item saved
